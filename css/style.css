@@ -1179,3 +1179,15 @@
     background: var(--bs-dark) !important;
 }
 /*** copyright end ***/
+
+.bar-top { 
+    background-color: #9A3566;
+}
+
+.text-primary {
+    color: #27C3C3 !important;
+}
+.carrucel-down {
+    margin-top: 15px;
+    position: relative;
+}
